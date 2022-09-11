@@ -1,0 +1,139 @@
+.heart p {
+  width: 100px;
+  height: 100px;
+  background: red;
+  border: 2px solid rgb(0, 0, 0);
+}
+/* 1 линия */
+.horizontal {
+  display: flex;
+}
+.block {
+  margin: 100px 0 0 500px;
+}
+.block1 {
+  margin: 100px 0 0 -2px;
+}
+.block2 {
+  margin: 100px 0 0 100px;
+}
+.block3 {
+  margin: 100px 0 0 -2px;
+}
+
+/* 2 линия */
+.horizontal2 {
+  display: flex;
+}
+.block4 {
+  margin: -2px 0 0 398px;
+}
+.block5 {
+  margin: -2px 0 0 -2px;
+}
+.block6 {
+  margin: -2px 0 0 -2px;
+}
+.block7 {
+  margin: -2px 0 0 -2px;
+}
+.block8 {
+  margin: -2px 0 0 -2px;
+}
+.block9 {
+  margin: -2px 0 0 -2px;
+}
+.block10 {
+  margin: -2px 0 0 -2px;
+}
+
+/* 3 линия */
+.horizontal3 {
+  display: flex;
+}
+.block11 {
+  margin: -2px 0 0 398px;
+}
+.block12 {
+  margin: -2px 0 0 -2px;
+}
+.block13 {
+  margin: -2px 0 0 -2px;
+}
+.block14 {
+  margin: -2px 0 0 -2px;
+}
+.block15 {
+  margin: -2px 0 0 -2px;
+}
+.block16 {
+  margin: -2px 0 0 -2px;
+}
+.block17 {
+  margin: -2px 0 0 -2px;
+}
+
+/* 4 линия */
+.horizontal4 {
+  display: flex;
+}
+.block18 {
+  margin: -2px 0 0 398px;
+}
+.block19 {
+  margin: -2px 0 0 -2px;
+}
+.block20 {
+  margin: -2px 0 0 -2px;
+}
+.block21 {
+  margin: -2px 0 0 -2px;
+}
+.block22 {
+  margin: -2px 0 0 -2px;
+}
+.block23 {
+  margin: -2px 0 0 -2px;
+}
+.block24 {
+  margin: -2px 0 0 -2px;
+}
+
+/* 5 линия */
+.horizontal5 {
+  display: flex;
+}
+.block25 {
+  margin: -2px 0 0 500px;
+}
+.block26 {
+  margin: -2px 0 0 -2px;
+}
+.block27 {
+  margin: -2px 0 0 -2px;
+}
+.block28 {
+  margin: -2px 0 0 -2px;
+}
+.block29 {
+  margin: -2px 0 0 -2px;
+}
+
+/* 6 линия */
+.horizontal6 {
+  display: flex;
+}
+.block30 {
+  margin: -2px 0 0 602px;
+}
+.block31 {
+  margin: -2px 0 0 -2px;
+}
+.block32 {
+  margin: -2px 0 0 -2px;
+}
+
+/* 7 линия */
+.block33 {
+  margin: -2px 0 0 704px;
+}
