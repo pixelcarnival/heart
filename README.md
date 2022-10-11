@@ -1,5 +1,5 @@
-# heart
+# Heart
 
-По мере обучения JS буду улучшать сердце. Думаю сделать из этого что-то залипательное или простенькую игру.
+As I learn JS, I will improve my heart. I'm thinking of making something meditative or a simple game out of it.
 
-[Опробовать](https://pixelcarnival.github.io/heart/)
+[launch](https://pixelcarnival.github.io/heart/)
